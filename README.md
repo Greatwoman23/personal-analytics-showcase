@@ -64,6 +64,47 @@ loaded_data = np.load('cleaned_titanic_data.npy')
 
 # Incorporate NumPy to enhance the data analysis of the Titanic Survival Prediction project!
 
+
+
+#PANDAS
+
+#Pandas Tutorial
+Welcome to the Pandas Tutorial! 🐼
+
+#Overview
+This tutorial is your go-to guide for using Pandas, a powerful Python library for playing with data. Whether you're a beginner or a pro, these examples will help you master the art of data manipulation.
+
+#Quick Start
+Install Pandas:
+
+
+pip install pandas
+Run Jupyter Notebook:
+Launch the Jupyter notebook or script.
+Dive into practical Pandas examples.
+
+#What You'll Learn
+Pandas Basics:
+Explore the fundamentals of Pandas, Series, and DataFrames.
+Sorting Data:
+Learn how to sort rows based on specific columns.
+Reshaping Tables:
+Convert between long and wide formats effortlessly.
+Pivot and Pivot Table:
+Restructure data for analysis and perform aggregations.
+Filtering Data:
+Discover the art of data filtering based on conditions.
+
+#Contribute
+Found a bug? Want to add more examples? We welcome your contributions! Feel free to report issues or submit pull requests.
+
+#License
+This project is licensed under the MIT License.
+
+Happy Pandas-ing! 🚀
+
+
+
 #The Core Team
 Oluwakemi Helen Deniran
 Feel free to reach out for any questions or discussions regarding the Titanic dataset visualizations!
